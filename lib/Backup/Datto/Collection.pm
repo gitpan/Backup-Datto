@@ -21,7 +21,7 @@ package Backup::Datto::Collection;
 # Boilerplate
 use warnings;
 use strict;
-our $VERSION = "0.1";
+our $VERSION = "0.1.1";
 
 # Modules that are part of this project
 use Backup::Datto::Device;
@@ -621,7 +621,7 @@ Backup::Datto::Collection - Report status information on all of the Datto backup
 
 =head1 VERSION
 
-This document describes DattoCollention version 0.1
+This document describes DattoCollention version 0.1.1
 
 =head1 SYNOPSIS
 

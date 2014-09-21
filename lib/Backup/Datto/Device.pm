@@ -21,7 +21,7 @@ package Backup::Datto::Device;
 # Boilerplate
 use warnings;
 use strict;
-our $VERSION = "0.1";
+our $VERSION = "0.1.1";
 
 use warnings;
 use strict;
@@ -268,7 +268,7 @@ Backup::Datto::Device - A class representing a physical Datto appliance.
 
 =head1 VERSION
 
-This document describes Datto version 0.1.  It is designed to be used by the
+This document describes Datto version 0.1.1.  It is designed to be used by the
 DattoCollection class, and as a result, most of its interface is not public.
 
 Information about the private interface is commented inline, and minimally here.

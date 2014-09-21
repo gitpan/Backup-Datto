@@ -21,7 +21,7 @@ package Backup::Datto::Agent;
 # Boilerplate
 use warnings;
 use strict;
-our $VERSION = "0.1";
+our $VERSION = "0.1.1";
 
 # These constants are the field names in Datto's XML.  If Datto changes
 # them, this is the only section of code you will need to modify.
@@ -144,7 +144,7 @@ Backup::Datto::Agent - A module representing an agent on a Datto object
 
 =head1 VERSION
 
-This document describes Datto version 0.1.  It is designed to be used by the
+This document describes Datto version 0.1.1.  It is designed to be used by the
 DattoCollection class, and as a result, most of its interface is not public.
 
 =head1 SYNOPSIS

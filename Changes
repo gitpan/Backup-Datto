@@ -1,5 +1,7 @@
 Revision history for Backup::Datto
 
-0.01    Date/time
-        First version, released on an unsuspecting world.
+0.1.1  9/121
+        Added LWP to the list of dependencies
 
+0.1    Date/time
+        First version, released on an unsuspecting world.

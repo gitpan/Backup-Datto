@@ -18,9 +18,10 @@ no_index:
     - t
     - inc
 requires:
+  LWP: 0
   Time::Interval: 1.22
   Time::Piece: 1.15
   Time::Seconds: 1.15
   XML::SIMPLE: 0
   perl: 5.006
-version: 0.1
+version: v0.1.1

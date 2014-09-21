@@ -22,6 +22,7 @@ WriteMakefile(
 		'Time::Interval' => 1.22,
 		'Time::Piece'    => 1.15,
 		'Time::Seconds'  => 1.15,
+        'LWP'            => 0,
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Backup::Datto-*' },
